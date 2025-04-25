@@ -3,6 +3,7 @@ package firstprogram.co.in;
 public class Identifiers_Mathopt {
  int a=10;
  int b=20;
+ //Identifers like a,b,doAdd,resultofAdd,Identifiers_Mathopt
  
  int doAdd() {
 	 int resultofAdd=this.a+this.b;
